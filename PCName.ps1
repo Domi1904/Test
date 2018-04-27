@@ -4,4 +4,4 @@ Write-Host $env:Username
 
 Start-Sleep -Seconds 3
 
-Write-Host "Peter"
+Write-Host "Was Soll das den"
