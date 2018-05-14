@@ -2,6 +2,6 @@
 
 Write-Host $env:Username	
 
-Start-Sleep -Seconds 3
+Write-Host "Bitte das ist Ihr Computername:)"
 
-Write-Host "Was Soll das den"
+Start-Sleep -Seconds 3
